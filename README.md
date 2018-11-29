@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Nyshia Baker)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+will be building an application that displays the elements containing a recipe’s ingredients and  instructions  when  a  user 
+clicks  the  associated  headers.You will use jQuery to respond to the users’ requests. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nyshiabaker.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery removes some of the tedious work from coding JavaScript and also provides a shortcut from some of the complicated parts of writing JavaScript.
+2. Select elements using jQuery syntax
+3. Use built-in jQuery functions
 
